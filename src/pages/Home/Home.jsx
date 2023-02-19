@@ -1,7 +1,10 @@
+import RoundButton from '../../components/RoundButton/RoundButton';
+import './Home.css';
 const Home = () => {
 	return (
 		<div>
-			<p>Hello World</p>
+			<p>Blanco Media ATL</p>
+			<RoundButton />
 		</div>
 	);
 };

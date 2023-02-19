@@ -1,0 +1,14 @@
+button {
+	margin-bottom: 20px;
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border: 10px solid #0065a6;
+	outline: none;
+	transition: all 0.2s cubic-bezier(0, 1.26, 0.8, 1.28);
+}
+.button-div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
