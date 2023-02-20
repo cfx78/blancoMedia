@@ -2,9 +2,11 @@ import './RoundButton.css';
 
 const RoundButton = () => {
 	return (
-		<div className='button-div'>
+		<div className="button-div">
 			<button>
-				Push <br /> Start
+				<span>
+					Push <br /> Start
+				</span>
 			</button>
 		</div>
 	);
