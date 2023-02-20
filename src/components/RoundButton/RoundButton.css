@@ -1,4 +1,5 @@
 button {
+	background-color: white;
 	margin-bottom: 20px;
 	width: 150px;
 	height: 150px;
@@ -6,7 +7,6 @@ button {
 	border: 10px solid #0065a6;
 	outline: none;
 	transition: all 0.2s cubic-bezier(0, 1.26, 0.8, 1.28);
-	background-color: white;
 }
 .button-div {
 	display: flex;
@@ -15,5 +15,5 @@ button {
 }
 
 .button-div span {
-	background-color: white;
+	color: white;
 }
