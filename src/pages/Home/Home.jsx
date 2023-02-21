@@ -5,7 +5,7 @@ const Home = () => {
 	return (
 		<div>
 			<p>Blanco Media ATL</p>
-			<RoundButton />
+
 			<Sidebar />
 		</div>
 	);
